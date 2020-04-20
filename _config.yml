@@ -14,17 +14,17 @@ urls:
     - text: Contact
       url : /contact
     - text: Join the Slack!
-      external_url: "https://app.slack.com/client/T08DLLF9N/C09KW9MP1"
+      external_url: https://app.slack.com/client/T08DLLF9N/C09KW9MP1
       external_site: Slack
     - text: CTF Discord
-      external_url: "https://discord.gg/YgDedaz"
+      external_url: https://discord.gg/YgDedaz
       external_site: Discord
 
 # Edit these details
 
 author_logo: ufsitlogo.png
 author: UFSIT
-author_bio: UF Student InfoSec Team
+author_bio: bleh
 author_email: "president@ufsit.org"
 author_location: University of Florida
 author_website_url: "ufsit.club"
