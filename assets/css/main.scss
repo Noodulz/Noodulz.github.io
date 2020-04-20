@@ -12,14 +12,14 @@ $mono-typeface: Menlo, Monaco, monospace;
 $text-width: 650px;
 
 html[data-theme="dark"] {
-    --bold-color: rgb(188, 188, 188);
+    --bold-color: rgb(237, 233, 230);
     --box-background-color: hsl(0, 0%, 20%);
     --highlight-color: hsl(0, 0%, 60%);
     --light-border-color: hsl(0, 0%, 30%);
     --light-text-color: rgb(199, 199, 204);
-    --link-color: #f69801;
+    --link-color: #e5e2d8;
     --link-color-visited: hsl(250, 100%, 60%);
-    --main-background-color: rgb(28, 28, 30);
+    --main-background-color: rgb(126, 126, 185);
     --main-text-color: rgb(139, 139, 139);
     --medium-text-color: hsl(0, 0%, 70%);
     --underline-color: hsl(0, 0%, 50%);
@@ -60,7 +60,7 @@ html[data-theme="light"] {
         --light-text-color: rgb(199, 199, 204);
         --link-color: #f69801;
         --link-color-visited: hsl(250, 100%, 60%);
-        --main-background-color: rgb(28, 28, 30);
+        --main-background-color: rgb(9,9,56);
         --main-text-color: rgb(139, 139, 139);
         --medium-text-color: hsl(0, 0%, 70%);
         --underline-color: hsl(0, 0%, 50%);
@@ -154,7 +154,7 @@ header {
 }
 .navbar{
        box-shadow: #000 0px 0px 8px;
-       background-color: #131313 !important;
+       background-color: #0b0a34 !important;
 }
 .navbar-dark .navbar-brand {
     color: #ff7601 !important;
@@ -266,7 +266,7 @@ header {
 /* jumbotron */
 .jumbotron {
     background-color: var(--main-background-color) !important;
-    background-image: url('https://d1qmdf3vop2l07.cloudfront.net/dear-deodorant.cloudvent.net/compressed/_min_/f6faab65951d8a814a63e2a7d9e61b66.svg');
+    background-image: url('https://cdn1.vectorstock.com/i/1000x1000/68/95/dark-blue-glowing-circuit-board-tech-background-vector-19816895.jpg');
     background-attachment: fixed;
     background-size: contain;
     background-position: top;

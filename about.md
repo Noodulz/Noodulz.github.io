@@ -1,5 +1,5 @@
 ---
-title: About
+title: About UFSIT
 menus: header
 layout: about-me
 permalink: /about
