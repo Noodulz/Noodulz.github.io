@@ -6,8 +6,10 @@ url: "ufsit.club" # the base hostname & protocol for your site, e.g. https://exa
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About and Resources
+    - text: About
       url: /about
+    - text: Who We Are
+      url: /members
     - text: Achievements
       url : /contact
     - text: Writeups
