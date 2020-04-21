@@ -1,30 +1,27 @@
 title: UFSIT
-subtitle: UF's Security Infosec Team!
-description: >- # this means to ignore newlines until "baseurl:"
-  Official homepage and blog for UFSIT
+subtitle: Kernel Sanders
+description: Official homepage and blog for UFSIT
 
 url: "ufsit.club" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About
+    - text: About and Resources
       url: /about
-    - text: Writeups
-      url: /blog
-    - text: Contact
+    - text: Achievements
       url : /contact
-    - text: Join the Slack!
-      external_url: https://app.slack.com/client/T08DLLF9N/C09KW9MP1
-      external_site: Slack
-    - text: CTF Discord
-      external_url: https://discord.gg/YgDedaz
-      external_site: Discord
+    - text: Writeups
+      url: /writeups
+    
+#      external_url: https://app.slack.com/client/T08DLLF9N/C09KW9MP1
+#      external_url: https://discord.gg/YgDedaz
+
 
 # Edit these details
 
 author_logo: ufsitlogo.png
 author: UFSIT
-author_bio: bleh
+author_subtitle: UF Student Infosec Team
 author_email: "president@ufsit.org"
 author_location: University of Florida
 author_website_url: "ufsit.club"
@@ -33,6 +30,7 @@ author_website_url: "ufsit.club"
 twitter_username: ufsit
 github_username:  ufsit
 facebook_username: ufsit
+youtube_username: ufsit
 
 #for comments using disqus
 disqus_shortname: user
@@ -46,12 +44,7 @@ permalink: pretty
 google_analytics: UA-46783401-10
 
 # algolia search
-algolia:
-  application_id: D9WA1YKTRQ
-  index_name: blog_posts # You can replace that with whatever name you want
-  files_to_exclude: []
-  nodes_to_index: 'article'
-  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+
 
 # pagination of posts
 paginate: 4
@@ -65,14 +58,6 @@ paginate_path: "/blog/page/:num/"
 #   endings: all
 #   ignore:
 #     envs: ['development']
-
-# Archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#   layout: archive
-#   permalinks:
-#     category: '/category/:name/'
 
 # Build settings
 plugins:
@@ -106,3 +91,4 @@ exclude:
   - vendor/ruby/
 
 destination: ./build
+future: true
