@@ -4,7 +4,7 @@ description: Official homepage and blog for UFSIT
 
  # the base hostname & protocol for your site, e.g. https://example.github.io
  # the subpath of your site, e.g. /blog
-baseurl: "//ufsit.club"
+baseurl: "/"
 
 urls:
     - text: About
