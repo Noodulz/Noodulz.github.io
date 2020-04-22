@@ -4,7 +4,7 @@ description: Official homepage and blog for UFSIT
 
  # the base hostname & protocol for your site, e.g. https://example.github.io
  # the subpath of your site, e.g. /blog
-baseurl: "/"
+baseurl: "//ufsit.club"
 
 urls:
     - text: About
@@ -27,7 +27,6 @@ author: UFSIT
 author_subtitle: UF Student Infosec Team
 author_email: "president@ufsit.org"
 author_location: University of Florida
-author_website_url: "ufsit.club"
 
 # social links
 twitter_username: ufsit
