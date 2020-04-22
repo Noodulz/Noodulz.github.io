@@ -75,6 +75,19 @@ permalink: /members/
 <br />
 <br />
 <br/>
+<div class="officer">
+    <img src="https://i.ibb.co/c1qtsbx/oofoouchowen.png" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-right: 20px" />
+    <div class="information">
+        <h2 style="margin-bottom: 0px" align="left">Noopnoop</h2>
+        <h3 style="margin-bottom: 0px" align="left"><i>Competition and Development Chair</i></h3>
+        <p></p>
+    </div>
+</div>
+<br/>
+<br/>
+<br />
+<br />
+<br/>
 
 <!--###############
     Chairs
@@ -87,18 +100,6 @@ permalink: /members/
 
   <hr style="margin-top: 10px" />
 
-<div class="officer">
-    <img src="https://i.ibb.co/c1qtsbx/oofoouchowen.png" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-right: 20px" />
-    <div class="information">
-        <h2 style="margin-bottom: 0px" align="left">Noopnoop</h2>
-        <h3 style="margin-bottom: 0px" align="left"><i>Competition and Development Chair</i></h3>
-        <p></p>
-    </div>
-</div>
-<br />
-<br />
-<br />
-<br/>
 <div class="officer">
     <img src="https://media-exp1.licdn.com/dms/image/C4D03AQF5CmiUHtlRqw/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=IPYnCgRl9X_YwIgvNIcaUswVQ3ykaAnX_eyXlcZ0pBY" style="float: right; width: 175px; height: 175px; border-radius: 50%; margin-left: 20px" />
     <div class="information">
