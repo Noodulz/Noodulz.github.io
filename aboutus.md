@@ -2,5 +2,5 @@
 title: About UFSIT
 menus: header
 layout: about-me
-permalink: /about
+permalink: /aboutus
 ---

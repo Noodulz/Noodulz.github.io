@@ -2,16 +2,17 @@ title: UFSIT
 subtitle: Kernel Sanders
 description: Official homepage and blog for UFSIT
 
-url: "ufsit.club" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/" # the subpath of your site, e.g. /blog
+ # the base hostname & protocol for your site, e.g. https://example.github.io
+ # the subpath of your site, e.g. /blog
+baseurl: "/"
 
 urls:
     - text: About
-      url: /about
+      url: /aboutus
     - text: Who We Are
       url: /members
     - text: Achievements
-      url : /contact
+      url : /achievements
     - text: Writeups
       url: /writeups
     
@@ -70,6 +71,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-algolia
   - jekyll-menus
+  - jekyll-relative-links
 
 
 # Exclude from processing.
