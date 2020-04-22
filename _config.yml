@@ -71,7 +71,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-algolia
   - jekyll-menus
-  - jekyll-relative-links
 
 
 # Exclude from processing.
