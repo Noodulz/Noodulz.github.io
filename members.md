@@ -27,7 +27,7 @@ permalink: /members/
 <hr style="margin-top: -10px" />
 
 <div class="officer">
-    <img src="https://media-exp1.licdn.com/dms/image/C5603AQEQn_7zJa1DvA/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=WC12yFVVagzr02MKRTb0PcEGtDx197kbS8nsxqiY_nI" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-right: 20px"/>
+    <img src="/assets/img/claire.jpg" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-right: 20px"/>
     <div class="information">
         <h2 style="margin-bottom: 0px">Claire Seiler</h2>
         <h3 style="margin-bottom: 0px"><i>President</i></h3>
@@ -51,7 +51,7 @@ permalink: /members/
 <br/>
 <br/>
 <div class="officer">
-    <img src="https://media-exp1.licdn.com/dms/image/C5603AQFOt2VcxZN4Fg/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=dXdDNEDFQYO0uUaR17_kb-u7KxpeVwwtJ8fsq3CIQgc" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-right: 20px" /> 
+    <img src="/assets/img/zlata.jpg" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-right: 20px" /> 
     <div class="information">
         <h2 style="margin-bottom: 0px" align="left">Zlata Itkin</h2>
         <h3 style="margin-bottom: 0px" align="left"><i>Treasurer</i></h3>
@@ -63,7 +63,7 @@ permalink: /members/
 <br />
 <br/>
 <div class="officer">
-    <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGemqbBkqleag/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=JZ2offwGrIWQLkW3X6MYpJXAnGJfMNTokEAY9owgmOM" style="float: right; width: 175px; height: 175px; border-radius: 50%; margin-left: 20px" />    
+    <img src="/assets/img/gabriella.jpg" style="float: right; width: 175px; height: 175px; border-radius: 50%; margin-left: 20px" />    
     <div class="information">
         <h2 style="margin-bottom: 0px" align="right">Gabriella Neris</h2>
         <h3 align="right"><i>Secretary</i></h3>
@@ -101,7 +101,7 @@ permalink: /members/
   <hr style="margin-top: 10px" />
 
 <div class="officer">
-    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQF5CmiUHtlRqw/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=IPYnCgRl9X_YwIgvNIcaUswVQ3ykaAnX_eyXlcZ0pBY" style="float: right; width: 175px; height: 175px; border-radius: 50%; margin-left: 20px" />
+    <img src="/assets/img/john.jpg" style="float: right; width: 175px; height: 175px; border-radius: 50%; margin-left: 20px" />
     <div class="information">
         <h2 style="margin-bottom: 0px" align="right">John Woodman</h2>
         <h3 style="margin-bottom: 0px" align="right"><i>Red Team Chair</i></h3>
@@ -137,7 +137,7 @@ permalink: /members/
 <br />
 <br/>
 <div class="officer">
-	<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFnMaBE9qHpoA/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=9nF1UD28cK4cu5GnjghTKZp_bVQagLqCwpZlEmy9L9k" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-right: 20px" />
+	<img src="/assets/img/blas.jpg" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-right: 20px" />
     <div class="information">
         <h2 style="margin-bottom: 0px">Blas Kojusner</h2>
         <h3><i>Corporate Liaison Chair</i></h3>
