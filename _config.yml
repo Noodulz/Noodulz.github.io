@@ -14,6 +14,10 @@ urls:
       url : /achievements
     - text: Writeups
       url: /writeups
+    - text: CTF Resources
+      url: /ctf-resources
+    - text: Club Resources
+      url: /club-resources
     
 #      external_url: https://app.slack.com/client/T08DLLF9N/C09KW9MP1
 #      external_url: https://discord.gg/YgDedaz

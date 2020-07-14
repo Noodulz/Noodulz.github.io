@@ -3,10 +3,12 @@ FROM jekyll/jekyll:latest as build
 WORKDIR /srv/jekyll
 
 ADD . /srv/jekyll
+#COPY Gemfile* /srv/jekyll
 
-RUN gem install bundler && \
+RUN RUN chown -R jekyll build/ && \
+    gem install bundler && \
     rm -rf Gemfile.lock && \
-    chmod -R 777 ${PWD} && \
+    chmod -R 777 . && \
     bundle update && \
     bundle install
     # jekyll build && \
