@@ -161,7 +161,7 @@ permalink: /members/
 <br/>
 <br/>
 <div class="officer">
-	<img src="https://i.ibb.co/TgmhjTf/meeee.png" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-left: 20px" />
+	<img src="/assets/img/mangame.jpg" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-left: 20px" />
     <div class="information">
         <h2 style="margin-bottom: 0px" align="left">Noodles</h2>
         <h3 align="left"><i>Webmaster and Developer</i></h3>
