@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who We Are
+title: Members
 permalink: /members/
 ---
 
@@ -125,7 +125,7 @@ permalink: /members/
 <br />
 <br/>
 <div class="officer">
-    <img src="https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-1/p240x240/21766575_1806319282993287_44713201831496872_n.jpg?_nc_cat=100&_nc_sid=dbb9e7&_nc_ohc=yJg47V1LU9YAX8-z_3j&_nc_ht=scontent-mia3-1.xx&_nc_tp=6&oh=2baa974fb9885262c2e5e8b29206296c&oe=5EC56580" style="float: right; width: 175px; height: 175px; border-radius: 50%; margin-left: 20px" />
+    <img src="/assets/img/shaun.jfif" style="float: right; width: 175px; height: 175px; border-radius: 50%; margin-left: 20px" />
     <div class="information">
         <h2 style="margin-bottom: 0px" align="right">Shaun Fidler</h2>
         <h3 style="margin-bottom: 0px" align="right"><i>Special Events Chair</i></h3>

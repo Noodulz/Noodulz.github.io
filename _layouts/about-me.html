@@ -93,18 +93,9 @@ layout: default
 				  text-align: center;
 				}
 			  </style>
-			<div class="img-container"> <!-- Block parent element -->
-				<img src="https://data.whicdn.com/images/50660904/original.gif" width="225" height="225" />
+			<div class="img-container" style="padding-right: 85px;"> <!-- Block parent element -->
+				<a href="https://github.com/Noodulz"><img src="https://data.whicdn.com/images/50660904/original.gif" width="225" height="225"></a>
 			</div>
-            {% if site.wakatime_username %}
-            <div class="card">
-                <h1> Coding Activity </h1>
-
-                {% include coding_activity.html %}
-
-            </div>
-            {% endif %}
-
         </div>
          <div class="col-lg-7">
             <div class="card">
@@ -119,36 +110,12 @@ layout: default
 			<div class="card">
 				<h1 class="card-title">Meetings</h1>
 					<p>UFSIT hosts weekly Cyber Ranges on Tuesday or Wednesday evenings at 6:30pm where we collaborate and practice various CTFs to improve
-						our security skills and knowledge.</p> 
-						<p>GBMs are on Thursday evenings at CSE 231 at 5:30pm where we have a guest speaker
-                        or UFSIT member give a talk on security-related topics and the industry as well as include hands-on activities and 
-						an opportunity to network with professionals.</p> 
-						<p>Friday evenings at 7:00pm are dedicated to practicing red-teaming through
-                        Hack The Box challenges and walkthroughs with the team and learning to crack new and old boxes. </p>
-							<p>In addition, UFSIT also publishes and hosts videos of presentation slides and Hack The Box walkthroughs on their <a href="https://www.youtube.com/user/ufsit">Youtube</a> channel.
+                        our security skills and knowledge. At the moment, due to COVID-19, our meetings are strictly online hosted via Zoom, so 
+                        join our Slack linked above to get the link and jump in on our weekly GBMs!</p> 
+						<p>In addition, UFSIT also publishes and hosts videos of presentation slides and Hack The Box walkthroughs on their <a href="https://www.youtube.com/user/ufsit">Youtube</a> channel.
 								Feel free to reach out to us through our Slack and Discord listed above for more information.
-							</p>
+						</p>
 					</div>
-			<div class="card">
-				<h1 class="card-title">Getting Involved</h1>
-					<p>UFSIT is open to any and all UF members or visitors ranging from beginners to professionals. For those of you entirely
-                        new though, if you'd like to get involved or get better at regional to nationwide CTF competitions with UFSIT, we highly
-                        encourage you to start off with learning Linux basics and the command line at the ever so helpful <a href="https://overthewire.org/wargames/bandit/">OverTheWire Bandit</a>,
-						which teaches you the Linux command line and shell environment through hands-on challenges and Google-fu.</p>
-						<p>Some other helpful
-                        resources to test the waters are <a href="https://picoctf.org">PicoCTF</a> (a high school CTF game aimed at beginners), and 
-                        <a href="https://ctf101.org">CTF101</a>, great for getting a TL;DR rundown of common categories and expectations in CTF categories. 
-                        And of course, don't forget to check <a href="https://ctftime.org">CTFTime</a> for all upcoming CTF competitions as well as read
-                        past writeups of challenges (also recommended).</p>
-
-                        <p>We at Kernel Sanders have also compiled a <a href="https://ufsit.club/ctf-resources">list of resources</a> to give you a headstart in particular categories ranging from web to reverse
-                        engineering and beginner CTFs to guide you through. Note that it is highly recommended to pick a niche area you'd like to learn in depth about,
-                        and not become a jack of all trades trying to learn every single field (unless you have no life and much time and dreams to kill). And of course,
-                        come out to our weekly meetings to learn much more from many of our experienced and professional members and sponsors!</p>
-			</div>
-
-
-
             {% if site.show_author_project_details == true %}
             <div id="author_projects" class="card">
                 <h1 class="card-title">Projects</h1>

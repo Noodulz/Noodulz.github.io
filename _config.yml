@@ -8,7 +8,7 @@ baseurl: "//ufsit.club"
 urls:
     - text: About
       url: /aboutus
-    - text: Who We Are
+    - text: Members
       url: /members
     - text: Achievements
       url : /achievements
