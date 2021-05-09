@@ -15,5 +15,5 @@ permalink: /writeups/
         <li><a href="https://github.com/joshuahaddad/CTF_WriteUps/blob/master/SwampCtf/swampGhidra.md">Ghidra Release from SwampCTF 2019 by Joshua Haddad</a></li>
         <li><a href="https://github.com/guyinatuxedo/nightmare/tree/master/modules/17-stack_pivot/seccon19_sum">sum from SECCON 2019 Online CTF by guyinatuxedo</a></li>
         <li><a href="https://github.com/guyinatuxedo/ctf/tree/master/tu19/vulnmath">vulnmath from TUCTF 2019 by guyinatuxedo</a></li>
-        <li><a href="https://www.sheepshellcode.com/blog/2015/09/08/mma-ctf-rock-paper-shellcode/">Rock Paper SHELLCODE from 2015 MMA CTF by Vincent Moscatello</a></li>
+        <li><a href="http://vmoscatello.com/blog/2015/09/08/mma-ctf-rock-paper-shellcode/">Rock Paper SHELLCODE from 2015 MMA CTF by Vincent Moscatello</a></li>
     </div>
