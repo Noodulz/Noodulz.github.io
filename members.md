@@ -220,6 +220,14 @@ permalink: /members/
         <p></p>
     </div>
 </div>
+<div class="officer">
+    <img src="https://www.blackhillsinfosec.com/wp-content/uploads/2018/12/BHIS-logo-L-1024x1024-400x400.png" style="float: left; width: 175px; height: 175px; border-radius: 50%; margin-right: 20px"/>
+    <div class="information">
+        <h2 style="margin-bottom: 0px" align="left"><a href="https://www.blackhillsinfosec.com/">Black Hills Information Security</a></h2>
+        <h3 align="left"><i>Industry sponsor</i></h3>
+        <p></p>
+    </div>
+</div>
 </article>
 <br/>
 <br/>
